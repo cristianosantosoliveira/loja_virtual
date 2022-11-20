@@ -1,5 +1,5 @@
 package cso.loja.virtual.model;
-
+ 
 
 import java.io.Serializable;
 import java.math.BigDecimal;
